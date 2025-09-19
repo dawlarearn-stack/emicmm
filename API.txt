@@ -1,0 +1,43 @@
+Ton testnet API
+4202227821c3c167a2d807507da0bed40dc90654b80c10e84ed4f6f6cf556716
+
+Ton Minnet API
+2afc6c8f5ea6e76903df93347bf8abfe0bfde0b548a2dfdcfefa66c7aa6a9f55
+
+EMICMM BOT API
+8242964153:AAF5kXqb9S5CxDA1dprg_99RFMEcKO5GO0w
+
+Hetzner Account (Cloud)
+Email: notbadgamingmm@gmail.com
+Password: KyawMinOo@1989
+
+tN9$xS-AReWVp=Eh
+
+Ton Public Key + Secret Key
+✅ Public Key (base64): du7i3PgROvfOXdtPk/S7/foSvbD3B/kZeSvpWu3LCjs=
+✅ Secret Key (base64): pD7n48g9QZxAdCVKDwB5lRTUnkCyTUN5USOfUnkBrpV27uLc+BE6985d20+T9Lv9+hK9sPcH+Rl5K+la7csKOw==
+✅ Wallet Address: EQDJnFYE7c6fgfvg1isLfHO0M-qzKWJCgUM1c_djYf6h16oM
+
+
+
+Ads Link List
+  "https://www.revenuecpmgate.com/vtd3twkp?key=3b796508e758cb2d252c4fcf3b771f6f",
+  "https://www.revenuecpmgate.com/vd79x0gi0f?key=09030777f5b829d3dd342620d9efa5ab",
+  "https://www.revenuecpmgate.com/tm05yq1b?key=8c8e39dd7e718eff7b7874a959dcdcbd",
+  "https://www.revenuecpmgate.com/au7uzpr9e6?key=05aaeda7fd45f1c5834673bab84dd53e",
+  "https://www.revenuecpmgate.com/s1ie44dct?key=578419020f88b26265c21ad4aa86a2d7",
+  "https://www.revenuecpmgate.com/g7ects0xf4?key=f1cdd63398c2697927773551ad6b8715",
+  "https://www.revenuecpmgate.com/yev00gg4?key=68c5e70125364a9c75ca9c10ae072f04",
+  "https://www.revenuecpmgate.com/xppgxy7zf9?key=11c1c409f21b8bc99cf79409e81ebf78",
+  "https://www.revenuecpmgate.com/uy3mrkhf?key=769e8c7e3ce21e54ff42168ac42d0efe",
+  "https://www.revenuecpmgate.com/r38vw4hed?key=080e7883c7a3d852ab2e8abd39636a5b",
+  "https://www.revenuecpmgate.com/c1md5teac?key=8331fd9fd75e3ca6453333e8202b34c9",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
