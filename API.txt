@@ -13,6 +13,11 @@ Password: KyawMinOo@1989
 
 tN9$xS-AReWVp=Eh
 
+D:\DragonAdsBot>git push -u origin main
+fatal: A task was canceled.
+Username for 'https://github.com': 6B7A-DD37
+Password for 'https://6B7A-DD37@github.com':
+
 Ton Public Key + Secret Key
 ✅ Public Key (base64): du7i3PgROvfOXdtPk/S7/foSvbD3B/kZeSvpWu3LCjs=
 ✅ Secret Key (base64): pD7n48g9QZxAdCVKDwB5lRTUnkCyTUN5USOfUnkBrpV27uLc+BE6985d20+T9Lv9+hK9sPcH+Rl5K+la7csKOw==
